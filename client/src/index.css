@@ -262,7 +262,7 @@ h4 {
   }
   .popup.IsActive {
     max-width: 90vw;
-    max-height: 100vh;
+    max-height: 35vh;
   }
   .addPopup {
     bottom: 5vw;
